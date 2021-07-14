@@ -1,0 +1,17 @@
+{
+	"name": "pl_wait2",
+	"properties": {
+		"activities": [
+			{
+				"name": "Wait 30 seconds",
+				"type": "Wait",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"waitTimeInSeconds": 30
+				}
+			}
+		],
+		"annotations": []
+	}
+}
